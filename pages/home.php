@@ -5,7 +5,11 @@
     </header>
     <main>
         <header class="nav">
-            <h2>Phone Lists</h2>
+            <h2>
+                <span>Phone Lists</span> 
+                <select name=""  id="phone-list-models">
+                </select>
+            </h2>
             <form action="">
                 <input type="text" name="" id="" placeholder="Search phone brand">
             </form>
